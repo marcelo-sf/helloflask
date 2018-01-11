@@ -1,0 +1,2 @@
+APP_MODULE=simpleapp:app
+WEB_CONCURRENCY=2
