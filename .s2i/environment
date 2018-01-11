@@ -1,2 +1,2 @@
-APP_MODULE=simpleapp:app
+APP_MODULE=app:app
 WEB_CONCURRENCY=2
